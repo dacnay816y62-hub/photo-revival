@@ -1,4 +1,4 @@
 interface:
   display_name: "废片焕新"
   short_description: "把普通照片重绘成白纸留白的诗性手绘插画。"
-  default_prompt: "Use $photo-revival to turn a photo into a 3:4 poetic hand-drawn illustration with a white paper field, large negative space, vivid localized color, subtle collage accents, and tiny handwritten captions."
+  default_prompt: "Use $photo-revival to turn a photo into a 3:4 poetic hand-drawn illustration with a white paper field, 80-88% blank negative space, a tiny 10-16% subject area, vivid localized color, subtle collage accents, and tiny handwritten captions."
