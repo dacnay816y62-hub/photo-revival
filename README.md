@@ -1,5 +1,8 @@
 # 废片焕新 · Photo Revival
 
+> **即梦版已提供：** [下载即梦技能 ZIP](https://github.com/dacnay816y62-hub/photo-revival/releases/download/jimeng-v1.0.0/photo-revival-jimeng-v1.0.0.zip) · [查看即梦版说明](jimeng/README.md)。上传即梦请使用此专用 ZIP；原版技能继续保留。
+
+
 **FANTASY / 梵想美学 · 摄影与照片转译**
 
 把生活照片转译成白纸上的小幅手绘，保留记忆点，以大量留白与少量诗性文字重新组织画面。

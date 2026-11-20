@@ -1,0 +1,17 @@
+{
+  "name": "废片救星-生活照片转手绘插画",
+  "status": "通过",
+  "files": 1,
+  "compressed_bytes": 2635,
+  "expanded_bytes": 4523,
+  "max_folder_depth": 0,
+  "relative_links_verified": 0,
+  "name_characters": 14,
+  "description_characters": 95,
+  "sha256": "b41d8e40b0f0d2d82a4395ddd1034392ac8c3903bae362269cab95c5b7dcea7a",
+  "archive": "photo-revival-jimeng-v1.0.0.zip",
+  "extracted_byte_match": true,
+  "basis": "用户提供的《满血版即梦 Skill 创建说明》",
+  "platform_upload_tested": false,
+  "media_generation_tested": false
+}
